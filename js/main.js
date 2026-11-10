@@ -1,7 +1,7 @@
 /* Saliha Shums portfolio: vanilla JS, no dependencies */
 const PROFILE = {
   email: "salihashums@gmail.com",
-  linkedin: "",            // paste your LinkedIn URL here to show the LinkedIn button
+  linkedin: "https://www.linkedin.com/in/fathima-saliha-shums/",            // paste your LinkedIn URL here to show the LinkedIn button
 };
 
 const $ = (s, el = document) => el.querySelector(s);
